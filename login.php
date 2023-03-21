@@ -92,7 +92,7 @@
         </div>
         <div>
             <audio src="rsc/bgm.mp3" autoplay loop></audio>
-            <img src="rsc/skeleton.gif" alt="skeleton" height="315px">
+            <img src="rsc/skeleton.gif" alt="skeleton" height="330px">
         </div>
     </section>
 </body>

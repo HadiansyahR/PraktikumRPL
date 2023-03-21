@@ -23,7 +23,7 @@ body {
 
 }
 
-/* @-webkit-keyframes change-color {
+@-webkit-keyframes change-color {
   0% {
     background: red;
   }
@@ -57,7 +57,7 @@ body {
   100% {
     background: red;
   }
-} */
+}
 
 article,
 aside,
