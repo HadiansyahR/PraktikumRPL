@@ -91,8 +91,8 @@
             </div>
         </div>
         <div>
-            <audio src="bgm.mp3" autoplay loop></audio>
-            <img src="css/skeleton.gif" alt="skeleton" height="315px">
+            <audio src="rsc/bgm.mp3" autoplay loop></audio>
+            <img src="rsc/skeleton.gif" alt="skeleton" height="315px">
         </div>
     </section>
 </body>
